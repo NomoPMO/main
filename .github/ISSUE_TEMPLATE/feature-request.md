@@ -1,9 +1,9 @@
 ---
 name: Feature Request
-about: Suggest a new idea or improvement for NomoPMO
+about: Suggest a new idea or improvement for Habitrek
 title: '"[FEATURE] Brief description of the idea"'
 labels: enhancement
-assignees: NomoPMO
+assignees: habitrek
 
 ---
 
