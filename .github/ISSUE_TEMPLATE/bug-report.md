@@ -3,7 +3,7 @@ name: Bug Report
 about: Report a bug or unexpected behavior in Habitrek
 title: '"[Bug] Brief description of the issue"'
 labels: bug
-assignees: ''
+assignees: habitrek
 
 ---
 
