@@ -1,14 +1,14 @@
-# NomoPMO
+# Habitrek
 
-Welcome to **NomoPMO**!
+Welcome to **Habitrek**!
 
 ---
 
 ## About
 
-NomoPMO is a gamified NoFap tracker, similar to DuoLingo  
+Habitrek is a gamified habit tracker, inspired by apps like DuoLingo  
 _(minus the plethora of... "interesting" things they've done)_,  
-meant to make the NoFap journey more fun and to motivate more people!
+designed to make building good habits more fun and to motivate more people!
 
 ---
 
@@ -27,7 +27,7 @@ meant to make the NoFap journey more fun and to motivate more people!
 
 Contributions are welcome!  
 Feel free to open issues or submit pull requests.  
-Your feedback helps make NomoPMO better for everyone.
+Your feedback helps make Habitrek better for everyone.
 
 ---
 
@@ -40,14 +40,14 @@ This project is open-source and available under the **[MIT License](LICENSE)**.
 ## Contact
 
 For any questions, feedback, or concerns, please email me at:  
-**NomoPMO.contact@gmail.com**
+**Habitrek.contact@gmail.com**
 
 ---
 
 ## Visit the live site at:  
-**https://NomoPMO.github.io/main/**
+**https://habitrek.github.io/main/**
 
 ---
 
-Thank you for checking out **NomoPMO**!              
-Wishing you a successful and fulfilling NoFap journey!
+Thank you for checking out **Habitrek**!  
+Wishing you a successful and habit-building journey!
