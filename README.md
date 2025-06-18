@@ -40,7 +40,7 @@ This project is open-source and available under the **[MIT License](LICENSE)**.
 ## Contact
 
 For any questions, feedback, or concerns, please email me at:  
-**nomopmo.contact@gmail.com**
+**imallaboutthatgrass@gmail.com**
 
 ---
 
