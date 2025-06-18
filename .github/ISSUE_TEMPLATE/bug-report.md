@@ -1,9 +1,9 @@
 ---
 name: Bug Report
-about: Report a bug or unexpected behavior in NomoPMO
+about: Report a bug or unexpected behavior in Habitrek
 title: '"[Bug] Brief description of the issue"'
 labels: bug
-assignees: NomoPMO
+assignees: ''
 
 ---
 
@@ -44,9 +44,9 @@ assignees: NomoPMO
 
 ## Environment
 
-- OS: [e.g. Windows 10, macOS Ventura, iOS 17]
-- Browser: [e.g. Chrome, Safari, Firefox]
-- Device: [e.g. Laptop, iPhone, Android]
+- OS: [e.g. Windows 10, macOS Ventura, iOS 17]  
+- Browser: [e.g. Chrome, Safari, Firefox]  
+- Device: [e.g. Laptop, iPhone, Android]  
 - App version or GitHub commit: [e.g. `v1.2.0` or `a1b2c3d`]
 
 ---
