@@ -1,0 +1,71 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.day-box,
+.blank-day {
+  height: 50px;
+  border: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+  cursor: pointer;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.blank-day {
+  background-color: transparent;
+  border: none;
+  cursor: default;
+}
+
+.today-highlight {
+  background-color: #4caf50;
+  color: white;
+  font-weight: bold;
+  border: 2px solid #388e3c;
+}
+
+#calendarControls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto; /* centers the container horizontally */
+  justify-content: center; /* centers the items inside */
+}
+
+#calendar {
+  flex-grow: 1;
+  min-width: 0;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fafafa;
+  max-width: 400px;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+#prevMonth {
+  cursor: pointer;
+}
+
+#nextMonth {
+  cursor: pointer;
+}
